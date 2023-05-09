@@ -1,4 +1,4 @@
-FROM jfrog.pcs.lab.twistlock.com/bgdemo/alpine:3.11.5
+FROM jfrog.pcs.lab.twistlock.com/pcs-docker/alpine:3.11.5
 
 CMD printf "\nCONGRATULATIONS!!!\n\nYou have just set up your first Docker repository with the new JFrog Platform!\n\n"
 
